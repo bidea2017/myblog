@@ -1,4 +1,9 @@
-记录平时写的一些东西, 以及翻译的一些文章(只用于学习交流的目的).为了方便,都已经转成了 PDF.
+记录平时写的一些东西, 以及翻译的一些文章(只用于学习交流的目的).为了方便,有些已经转成了 PDF.
+
+Jetty
+-----
+- [Jetty-集群配置(使用自带的 BalancerServlet)](http://ykgarfield.github.io/Jetty-Source-Read/Jetty-%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE(%E4%BD%BF%E7%94%A8%E8%87%AA%E5%B8%A6%E7%9A%84%20BalancerServlet).pdf)
+
 
 Jetty Document 9.2.3.v20140905 中文翻译
 -----
