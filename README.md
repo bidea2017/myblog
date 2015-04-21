@@ -2,7 +2,8 @@
 
 Jetty
 -----
-- [Jetty-集群配置(使用自带的 BalancerServlet)](http://ykgarfield.github.io/Jetty-Source-Read/Jetty-%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE(%E4%BD%BF%E7%94%A8%E8%87%AA%E5%B8%A6%E7%9A%84%20BalancerServlet).pdf)
+- [Jetty-集群配置(使用自带的 BalancerServlet)](http://ykgarfield.github.io/Jetty-Source-Read/Jetty-%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE-%E4%BD%BF%E7%94%A8%E8%87%AA%E5%B8%A6%E7%9A%84%20BalancerServlet.pdf)
+- [Jetty9.3.x 源码配置](http://ykgarfield.github.io/Jetty-Source-Read/Jetty9-3-x-%E6%BA%90%E7%A0%81%E9%85%8D%E7%BD%AE.pdf)
 
 
 Jetty Document 9.2.3.v20140905 中文翻译
@@ -12,7 +13,6 @@ Jetty Document 9.2.3.v20140905 中文翻译
 - [第3章 Jetty 配置介绍 ](http://ykgarfield.github.io/jetty-9.2.3.v20140905-zh/quick-start-configure.html)
 - [第4章 发布到 Jetty ](http://ykgarfield.github.io/jetty-9.2.3.v20140905-zh/configuring-deployment.html)
 - [第5章 配置 Contexts ](http://ykgarfield.github.io/jetty-9.2.3.v20140905-zh/configuring-contexts.html)
-
 
 
 Scala In Action
