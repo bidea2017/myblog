@@ -16,7 +16,7 @@ Tomcat
   阅读了部分源码(基于 8.0.5), 主要是为了与 Jetty 对比.
 
 - [在 Tomcat 源码中调试 WebSocket 的注意事项](http://ykgarfield.github.io/Tomcat-Source-Read/%E5%9C%A8%20Tomcat%20%E6%BA%90%E7%A0%81%E4%B8%AD%E8%B0%83%E8%AF%95%20WebSocket%20%E7%9A%84%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.pdf)
-
+- [IDEA 和 Eclipse 下调试安全策略的差异以及 SecurityClassLoad 类的作用](http://ykgarfield.github.io/Tomcat-Source-Read/IDEA%20%E5%92%8C%20Eclipse%20%E4%B8%8B%E8%B0%83%E8%AF%95%E5%AE%89%E5%85%A8%E7%AD%96%E7%95%A5%E7%9A%84%E5%B7%AE%E5%BC%82%E4%BB%A5%E5%8F%8A%20SecurityClassLoad%20%E7%B1%BB%E7%9A%84%E4%BD%9C%E7%94%A8.pdf)
 
 
 Jetty Document 9.2.3.v20140905 中文翻译
