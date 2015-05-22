@@ -13,6 +13,7 @@ Jetty
 -----
   阅读 Jetty 9.2.3 源码的一些笔记, 同时有些地方对比了 Tomcat.
 
+- [给 Jetty 提的 bug 和建议](https://github.com/ykgarfield/myblog/blob/master/doc/%E7%BB%99%20Jetty%20%E6%8F%90%E7%9A%84%20bug%20%E5%92%8C%E5%BB%BA%E8%AE%AE.md)
 - [HttpSessionActivationListener 引发的一些问题(Jetty vs Tomcat)](http://ykgarfield.github.io/Jetty-Source-Read/HttpSessionActivationListener%20%E5%BC%95%E5%8F%91%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98_Jetty%20vs%20Tomcat.pdf)
 - [Jetty-悲催的文件上传-bug 修补记](http://ykgarfield.github.io/Jetty-Source-Read/Jetty-%E6%82%B2%E5%82%AC%E7%9A%84%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0-bug%E4%BF%AE%E8%A1%A5%E8%AE%B0.pdf)
 - [Jetty-集群配置(使用自带的 BalancerServlet)](http://ykgarfield.github.io/Jetty-Source-Read/Jetty-%E9%9B%86%E7%BE%A4%E9%85%8D%E7%BD%AE-%E4%BD%BF%E7%94%A8%E8%87%AA%E5%B8%A6%E7%9A%84%20BalancerServlet.pdf)
