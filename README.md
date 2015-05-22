@@ -3,6 +3,7 @@
 
 Java-NIO
 --------
+- [Channel关闭输入,输出流的差异-纠正 Fundamental Networking in Java 一书中的一个错误](http://ykgarfield.github.io/Java-NIO/Channel%E5%85%B3%E9%97%AD%E8%BE%93%E5%85%A5,%E8%BE%93%E5%87%BA%E6%B5%81%E7%9A%84%E5%B7%AE%E5%BC%82-%E7%BA%A0%E6%AD%A3%20Fundamental%20Networking%20in%20Java%20%E4%B8%80%E4%B9%A6%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF.pdf)
 - [NIO 读事件的处理 1-问题所在](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%201-%E9%97%AE%E9%A2%98%E6%89%80%E5%9C%A8.pdf)
 - [NIO 读事件的处理 2-Tomcat 对读事件的处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%202-Tomcat%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86.pdf)
 - [NIO 读事件的处理 3-Jetty 对读事件的处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%203-Jetty%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86.pdf)
