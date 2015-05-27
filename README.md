@@ -21,15 +21,15 @@ Java-NIO
 - [NIO 读事件的处理 4-xSocket 对读事件处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%204-xSocket%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86.pdf)
 - [Jetty-半包粘包的处理](http://ykgarfield.github.io/Java-NIO/Jetty-%E5%8D%8A%E5%8C%85%E7%B2%98%E5%8C%85%E7%9A%84%E5%A4%84%E7%90%86.pdf)
 
-#### 《Fundamental Networking in Java》的部分章节
+#### 《Fundamental Networking in Java》翻译过的部分章节
   这本书的英文阅读实在有点难, +_+.翻译过部分的也有些地方不全.
 
--[第2章 IP基础](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC2%E7%AB%A0%20IP%E5%9F%BA%E7%A1%80.pdf)
--[第3章 TCP基础](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC3%E7%AB%A0%20TCP%E5%9F%BA%E7%A1%80.pdf)
--[第4章 可伸缩的I-O](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC4%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84I-O.pdf)
--[第5章 可伸缩的TCP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC5%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84TCP.pdf)
--[第9章 单播UDP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC9%E7%AB%A0%20%E5%8D%95%E6%92%ADUDP.pdf)
--[第10章 可伸缩的UDP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC10%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84UDP.pdf)
+- [第2章 IP基础](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC2%E7%AB%A0%20IP%E5%9F%BA%E7%A1%80.pdf)
+- [第3章 TCP基础](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC3%E7%AB%A0%20TCP%E5%9F%BA%E7%A1%80.pdf)
+- [第4章 可伸缩的I-O](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC4%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84I-O.pdf)
+- [第5章 可伸缩的TCP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC5%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84TCP.pdf)
+- [第9章 单播UDP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC9%E7%AB%A0%20%E5%8D%95%E6%92%ADUDP.pdf)
+- [第10章 可伸缩的UDP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC10%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84UDP.pdf)
 
 
 Tomcat
