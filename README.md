@@ -1,15 +1,6 @@
 记录平时写的一些东西, 以及翻译的一些文章(只用于学习交流的目的).为了方便,有些已经转成了 PDF.
 
 
-Java-NIO
---------
-- [Channel关闭输入,输出流的差异-纠正 Fundamental Networking in Java 一书中的一个错误](http://ykgarfield.github.io/Java-NIO/Channel%E5%85%B3%E9%97%AD%E8%BE%93%E5%85%A5,%E8%BE%93%E5%87%BA%E6%B5%81%E7%9A%84%E5%B7%AE%E5%BC%82-%E7%BA%A0%E6%AD%A3%20Fundamental%20Networking%20in%20Java%20%E4%B8%80%E4%B9%A6%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF.pdf)
-- [NIO 读事件的处理 1-问题所在](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%201-%E9%97%AE%E9%A2%98%E6%89%80%E5%9C%A8.pdf)
-- [NIO 读事件的处理 2-Tomcat 对读事件的处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%202-Tomcat%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86.pdf)
-- [NIO 读事件的处理 3-Jetty 对读事件的处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%203-Jetty%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86.pdf)
-- [NIO 读事件的处理 4-xSocket 对读事件处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%204-xSocket%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86.pdf)
-- [Jetty-半包粘包的处理](http://ykgarfield.github.io/Java-NIO/Jetty-%E5%8D%8A%E5%8C%85%E7%B2%98%E5%8C%85%E7%9A%84%E5%A4%84%E7%90%86.pdf)
-
 Jetty
 -----
   阅读 Jetty 9.2.3 源码的一些笔记, 同时有些地方对比了 Tomcat.
@@ -20,6 +11,25 @@ Jetty
 - [Jetty 负载均衡配置-使用自带的 BalancerServlet 或 Apache Http Server](http://ykgarfield.github.io/Jetty-Source-Read/Jetty%20%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E9%85%8D%E7%BD%AE-%E4%BD%BF%E7%94%A8%E8%87%AA%E5%B8%A6%E7%9A%84%20BalancerServlet%20%E6%88%96%20Apache%20Http%20Server.pdf)
 - [Jetty9.3.x 源码配置](http://ykgarfield.github.io/Jetty-Source-Read/Jetty9-3-x-%E6%BA%90%E7%A0%81%E9%85%8D%E7%BD%AE.pdf)
 
+
+Java-NIO
+--------
+- [Channel关闭输入,输出流的差异-纠正 Fundamental Networking in Java 一书中的一个错误](http://ykgarfield.github.io/Java-NIO/Channel%E5%85%B3%E9%97%AD%E8%BE%93%E5%85%A5,%E8%BE%93%E5%87%BA%E6%B5%81%E7%9A%84%E5%B7%AE%E5%BC%82-%E7%BA%A0%E6%AD%A3%20Fundamental%20Networking%20in%20Java%20%E4%B8%80%E4%B9%A6%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF.pdf)
+- [NIO 读事件的处理 1-问题所在](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%201-%E9%97%AE%E9%A2%98%E6%89%80%E5%9C%A8.pdf)
+- [NIO 读事件的处理 2-Tomcat 对读事件的处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%202-Tomcat%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86.pdf)
+- [NIO 读事件的处理 3-Jetty 对读事件的处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%203-Jetty%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86.pdf)
+- [NIO 读事件的处理 4-xSocket 对读事件处理](http://ykgarfield.github.io/Java-NIO/NIO%20%E8%AF%BB%E4%BA%8B%E4%BB%B6%E7%9A%84%E5%A4%84%E7%90%86%204-xSocket%20%E5%AF%B9%E8%AF%BB%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86.pdf)
+- [Jetty-半包粘包的处理](http://ykgarfield.github.io/Java-NIO/Jetty-%E5%8D%8A%E5%8C%85%E7%B2%98%E5%8C%85%E7%9A%84%E5%A4%84%E7%90%86.pdf)
+
+#### 《Fundamental Networking in Java》的部分章节
+  这本书的英文阅读实在有点难, +_+.翻译过部分的也有些地方不全.
+
+-[第2章 IP基础](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC2%E7%AB%A0%20IP%E5%9F%BA%E7%A1%80.pdf)
+-[第3章 TCP基础](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC3%E7%AB%A0%20TCP%E5%9F%BA%E7%A1%80.pdf)
+-[第4章 可伸缩的I-O](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC4%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84I-O.pdf)
+-[第5章 可伸缩的TCP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC5%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84TCP.pdf)
+-[第9章 单播UDP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC9%E7%AB%A0%20%E5%8D%95%E6%92%ADUDP.pdf)
+-[第10章 可伸缩的UDP](http://ykgarfield.github.io/Java-NIO/%E7%AC%AC10%E7%AB%A0%20%E5%8F%AF%E4%BC%B8%E7%BC%A9%E7%9A%84UDP.pdf)
 
 
 Tomcat
